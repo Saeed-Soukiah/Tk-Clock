@@ -20,10 +20,3 @@
 
 - **Python:** Version 3.6 or later is recommended.
 - **Tkinter:** This GUI library is bundled with most Python distributions. If not, you can install it via your package manager.
-
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/tkChrono.git
